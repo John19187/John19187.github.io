@@ -6,17 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: I am Chuan !
-name: DONGChuan
-email: dongchuan55@gmail.com
-location: Nice, France
-company: Gfi Informatique
-company_url: http://www.gfi.fr/en/
-github_url: https://github.com/DONGChuan
-description: This is personnel website of DONG Chuan
+title: 千里之行，始于足下
+name: John博客
+keywords: 绿色软件,免费软件,软件博客,便携软件,电脑软件,资源分享,免费教程
+company:
+company_url:
+description: John博客提供实用的免费教程，专注网络知识分享
 favicon: favicon.png # Image must be in assets/images
 
-url: http://dongchuan.github.io # the base hostname & protocol for your site
+url: https://john19187.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
@@ -25,6 +23,7 @@ gems:
   - rouge
   - kramdown
   - jekyll-github-metadata
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
