@@ -3,7 +3,7 @@ name: Jekyll site CI
 on:
   push:
     branches:
-      - main  # 确保这是你的默认分支
+      - master  # 确保这是你的默认分支
 
 jobs:
   build:
