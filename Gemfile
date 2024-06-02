@@ -1,4 +1,4 @@
-source 'https://www.john1959.com'
+source 'https://rubygems.org'
 
 gem 'rough'
 gem 'jekyll-paginate'
