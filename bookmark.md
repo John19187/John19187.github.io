@@ -5,25 +5,31 @@ subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; To mark us
 menu: Bookmark
 ---
 
-# Java
+## Java
 - [Java极客技术学习](https://www.javajike.com/) -java, springboot, springcloud, docker教程, memcached教程, mongodb教程, elasticsearch教程, redis教程
 - [HOW2J.CN](https://how2j.cn/) - JAVA, J2EE, JAVA框架, 中间件, 分布式和集群, 数据库, 实践项目, 面试题
 - [Java技术驿站](http://cmsblogs.com/) -Java面试题, 微服务, 架构&分布式
 
-# Web
+## Web
 - [常用工具](http://www.cxy521.com/) - 学习平台, 常用工具
 - [jQuery插件库](https://www.jq22.com/) - jQuery插件库, 内容比对
 
-# 算法
+## 算法
 - [Leetcode算法](http://www.leetcodecn.com/) -基础算法, 经典排序
 
-# Blog
-- [纯洁的微笑的博客](http://www.ityouknow.com/) - Spring Boot, Spring Cloud, Java, Python
-- [方志朋的专栏](https://www.fangzhipeng.com/) - Spring Boot, Spring Cloud, Java
-- [廖雪峰的官方网站](https://www.liaoxuefeng.com/) - Java, Python, JavaScript, 区块链, SQL, Git
-- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) - 微信小程序, 科技周刊
+## Blog
+- [稳定SSR机场节点](https://www.ssrnodes.com/)
+- [天空节点](https://www.skynode1.com/) 
+- [节点机场推荐](https://www.nodegood.com/)
+- [Clash机场指南](https://www.clashgoodnode.com/)
+- [Shadowrocket机场订阅](https://shadowrocketnodes.com/) 
+- [小火箭机场及ID](https://www.shadowrocketid.com/) 
+- [V2ray机场节点](https://v2raygoodnode.com/) 
+- [IOS小火箭机场账号](https://ios-shadowrocket.com/)
+- [免费机场节点](https://www.freejichang.com/)
+- [免费SSR节点](https://ssrtop.com/)
 
-# Open source
+## Open source
 - [JEECMS](http://www.jeecms.com/) - 开源网站框架
 - [JEESITE](http://jeesite.com/) - 开源系统框架
 - [RuoYi](http://www.ruoyi.vip/) - 若依管理系统，开源免费
