@@ -31,9 +31,6 @@ permalink: posts/2025-02-28-free-shadowrocket-node-updates.html
 
 在这个部分，我们将为你介绍2025年02月28日的免费ssr节点订阅链接。
 
-```
-字1@
-```
 
 ### clash订阅链接
 
