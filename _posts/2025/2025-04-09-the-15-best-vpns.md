@@ -197,7 +197,7 @@ Gatern（原 Shuttle）是一家提供双线并发负载的稳定加速服务平
 | 视频多 + 不想月月续费    | Pro / Ultra    | 一次性解决全年，按需使用不浪费        |
 | 重度用户 / 多设备 / 家庭 | Medium / Large | 高流量、高速、不怕断流                |
 | 预算有限但希望长期稳定   | Micro / Small  | 每月稳定续费即可，单位流量也便宜      |
-***
+
 ## [FSCloud-vpn](https://github.com/jichangdaohangzhan/FSCloud)
 
 FSCloud-vpn是直连线路,入口为 Azure AWS 亚太, 最大限度保障用户体验。使用最新的协议hysteria2 协议。节点状态为bgp，电信用户自动分配为azure的入口，移动联通自动分配aws入口。netflix等主流流媒体解锁。
@@ -422,13 +422,7 @@ SSRDOG -vpn采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 - **高需求（4K视频 / 大文件 / 多人共享）** → **688G 钻石 ¥55/月**
 - **长期订阅最划算（每月74GB）** → **888G 秋季限定 ¥106/年**
 
-***
 
-[**» 进入性价比VPN梯子-优惠活动中-高速/稳定/推荐-月付18元200GB、23元300GB、35元800GB、年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://ll.silos.top/lepl/sxdxZeA8VV) 顺滑4K / 大文件 / 高质量流媒体解锁/稳定支持AI服务...以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
-
-[**» 进入便宜VPN梯子-量大价低-月付9.9元300GB、24元1000G、40元2000GB**-送小火箭ID](https://oo.silos.top/cheap/ew8KhPafvG) 流媒体、AI工具等高流量需求，长期备用流量
-
-***
 ## [咪兔 Mitu-vpn](https://github.com/jichangdaohangzhan/Mitu)
 
 **咪兔 Mitu** 是一家专为中国用户精心优化的高质量网络加速服务提供商，主打稳定高速的中继节点体验，支持多平台自动配置，无需繁琐设置，轻松实现全设备无障碍上网。
@@ -470,7 +464,7 @@ SSRDOG -vpn采用 Shadowsocks 专用协议，线路有 IEPL 和 IPLC 专线，�
 | Premium 流量包 | 小杯 | ¥38.80     | 100GB | 2Gbps | 5 台 | 精品50+  | 否       | 更高体验           | ⭐⭐⭐      |
 | Premium 流量包 | 中杯 | ¥76.80     | 250GB | 2Gbps | 5 台 | 精品50+  | 否       | 内容丰富           | ⭐⭐⭐⭐     |
 | Premium 流量包 | 大杯 | ¥149.80    | 500GB | 2Gbps | 5 台 | 精品50+  | 否       | 顶配畅用           | ⭐⭐⭐⭐⭐    |
-***
+
 ## [极客云-vpn](https://github.com/jichangdaohangzhan/jikeyun)
 
 极客云（JikeCloud），又称极客零（Jike0），是一家专业的SSR/V2Ray-vpn，成立于2017年，拥有近70个付费节点。该-vpn使用CN2/BGP隧道中转和IPLC国际专线，提供灵活的套餐和高性价比的服务，适合各类用户需求。
