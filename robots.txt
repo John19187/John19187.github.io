@@ -23,4 +23,4 @@ Disallow: /.github/
 Disallow: /bower_components/
 
 
-Sitemap: https://john19187.github.io/sitemap.xml
+Sitemap: https://www.xxxyssp.xyz/sitemap.xml
