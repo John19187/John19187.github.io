@@ -14,7 +14,7 @@ company_url:
 description: 千里之行，始于足下博客提供实用的免费教程，专注网络知识分享
 favicon: favicon.png # Image must be in assets/images
 
-url: https://www.xxxyssp.xyz # the base hostname & protocol for your site
+url: https://github.nodebest.xyz # the base hostname & protocol for your site
 
 ## Gem
 gems:
